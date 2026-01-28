@@ -1,4 +1,8 @@
-## Hi there 👋. We have started a discussion forum, where you can leave your question, query, suggestion and comment on the published toolbox.
+## Hi there 👋. 
+
+We have opened a discussion forum, where you can leave your question, query, suggestion and comment on any of our published toolbox so that we can answer or reach out to you.  
+
+
 
 <!--
 
