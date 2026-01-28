@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. We have started a discussion forum, where you can leave your question, query, suggestion and comment on the published toolbox.
 
 <!--
 
