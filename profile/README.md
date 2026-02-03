@@ -1,6 +1,6 @@
 ## Hi there 👋. 
 
-We have opened a discussion forum, where you can leave your question, query, suggestion and comment on any of our published toolbox so that we can answer or reach out to you.  
+ Welcome! Please leave your question, suggestion and comment on any of our published toolbox in our discussion forum, so that we can answer or reach out to you at the first time.  
 
 
 
